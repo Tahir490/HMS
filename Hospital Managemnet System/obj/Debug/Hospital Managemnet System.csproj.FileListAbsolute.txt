@@ -11,3 +11,13 @@ C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\Hospital Managemnet Sy
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\bin\Debug\Hospital Managemnet System.exe.config
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.exe
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.pdb
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\bin\Debug\Hospital Managemnet System.exe.config
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.exe
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.pdb
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\bin\Debug\Hospital Managemnet System.exe
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\bin\Debug\Hospital Managemnet System.pdb
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.csprojResolveAssemblyReference.cache
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital_Managemnet_System.Hospital.resources
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital_Managemnet_System.Menu.resources
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital_Managemnet_System.Properties.Resources.resources
+C:\Users\tahir\OneDrive\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.csproj.GenerateResource.Cache
