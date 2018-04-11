@@ -8,3 +8,6 @@ C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\Hospital Managemnet Sy
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\Hospital Managemnet System\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.exe
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\Hospital Managemnet System\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.pdb
 C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\Hospital Managemnet System\Hospital Managemnet System\obj\Debug\Hospital_Managemnet_System.Menu.resources
+C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\bin\Debug\Hospital Managemnet System.exe.config
+C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.exe
+C:\Users\Saad Saeed\Documents\Visual Studio 2013\Projects\HMS\Hospital Managemnet System\obj\Debug\Hospital Managemnet System.pdb
